@@ -750,3 +750,14 @@ h1 {
 .intro-lead-in {
     background-color: rgba(#b40505, 0.6) !important;
 }
+.input-group-addon {
+    padding: 10px 15px;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 1;
+    color: #b40505;
+    text-align: center;
+    background-color: #ecf0f1;
+    border: 1px solid #dce4ec;
+    border-radius: 4px;
+}
