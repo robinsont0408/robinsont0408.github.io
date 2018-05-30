@@ -20,7 +20,11 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
+<<<<<<< HEAD
                 url: "https://formspree.io/terryrobinson@trobinson.co",
+=======
+                url: "././mail/contact_me.rb",
+>>>>>>> 80f6ce2244ea12449aa79199afe592b2c0e281b2
                 type: "POST",
                 data: {
                     name: name,
